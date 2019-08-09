@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\bin\Debug\netcoreapp2.1\BaiTapW3resource.deps.json
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\bin\Debug\netcoreapp2.1\BaiTapW3resource.runtimeconfig.json
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\bin\Debug\netcoreapp2.1\BaiTapW3resource.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\bin\Debug\netcoreapp2.1\BaiTapW3resource.dll
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\bin\Debug\netcoreapp2.1\BaiTapW3resource.pdb
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\obj\Debug\netcoreapp2.1\BaiTapW3resource.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\obj\Debug\netcoreapp2.1\BaiTapW3resource.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\obj\Debug\netcoreapp2.1\BaiTapW3resource.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\obj\Debug\netcoreapp2.1\BaiTapW3resource.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\obj\Debug\netcoreapp2.1\BaiTapW3resource.dll
+C:\Users\ASUS\source\repos\BaiTapW3resource\BaiTapW3resource\obj\Debug\netcoreapp2.1\BaiTapW3resource.pdb
