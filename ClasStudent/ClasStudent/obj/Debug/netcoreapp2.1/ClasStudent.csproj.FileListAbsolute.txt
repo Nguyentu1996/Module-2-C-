@@ -1,0 +1,11 @@
+D:\Module-2-C-\ClasStudent\ClasStudent\obj\Debug\netcoreapp2.1\ClasStudent.csprojAssemblyReference.cache
+D:\Module-2-C-\ClasStudent\ClasStudent\obj\Debug\netcoreapp2.1\ClasStudent.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\ClasStudent\ClasStudent\obj\Debug\netcoreapp2.1\ClasStudent.AssemblyInfoInputs.cache
+D:\Module-2-C-\ClasStudent\ClasStudent\obj\Debug\netcoreapp2.1\ClasStudent.AssemblyInfo.cs
+D:\Module-2-C-\ClasStudent\ClasStudent\bin\Debug\netcoreapp2.1\ClasStudent.deps.json
+D:\Module-2-C-\ClasStudent\ClasStudent\bin\Debug\netcoreapp2.1\ClasStudent.runtimeconfig.json
+D:\Module-2-C-\ClasStudent\ClasStudent\bin\Debug\netcoreapp2.1\ClasStudent.runtimeconfig.dev.json
+D:\Module-2-C-\ClasStudent\ClasStudent\bin\Debug\netcoreapp2.1\ClasStudent.dll
+D:\Module-2-C-\ClasStudent\ClasStudent\bin\Debug\netcoreapp2.1\ClasStudent.pdb
+D:\Module-2-C-\ClasStudent\ClasStudent\obj\Debug\netcoreapp2.1\ClasStudent.dll
+D:\Module-2-C-\ClasStudent\ClasStudent\obj\Debug\netcoreapp2.1\ClasStudent.pdb

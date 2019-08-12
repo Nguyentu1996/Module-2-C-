@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasStudent", "ClasStudent\ClasStudent.csproj", "{276BA1A7-C5BD-4D2B-AD73-6E2403A19A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbum", "PhotoAlbum\PhotoAlbum.csproj", "{B1CA6CF5-88F2-4DF1-872D-CC7AFD564A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{46E51F5B-1E80-42D2-88BB-E5C7CCF189B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276BA1A7-C5BD-4D2B-AD73-6E2403A19A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276BA1A7-C5BD-4D2B-AD73-6E2403A19A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276BA1A7-C5BD-4D2B-AD73-6E2403A19A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276BA1A7-C5BD-4D2B-AD73-6E2403A19A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA6CF5-88F2-4DF1-872D-CC7AFD564A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA6CF5-88F2-4DF1-872D-CC7AFD564A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA6CF5-88F2-4DF1-872D-CC7AFD564A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA6CF5-88F2-4DF1-872D-CC7AFD564A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E51F5B-1E80-42D2-88BB-E5C7CCF189B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E51F5B-1E80-42D2-88BB-E5C7CCF189B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E51F5B-1E80-42D2-88BB-E5C7CCF189B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E51F5B-1E80-42D2-88BB-E5C7CCF189B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385AE8F8-688A-4E7D-AFC8-68EF0540CB9F}
+	EndGlobalSection
+EndGlobal
