@@ -1,0 +1,11 @@
+D:\Module-2-C-\Table\Table\bin\Debug\netcoreapp2.1\Table.deps.json
+D:\Module-2-C-\Table\Table\bin\Debug\netcoreapp2.1\Table.runtimeconfig.json
+D:\Module-2-C-\Table\Table\bin\Debug\netcoreapp2.1\Table.runtimeconfig.dev.json
+D:\Module-2-C-\Table\Table\bin\Debug\netcoreapp2.1\Table.dll
+D:\Module-2-C-\Table\Table\bin\Debug\netcoreapp2.1\Table.pdb
+D:\Module-2-C-\Table\Table\obj\Debug\netcoreapp2.1\Table.csprojAssemblyReference.cache
+D:\Module-2-C-\Table\Table\obj\Debug\netcoreapp2.1\Table.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\Table\Table\obj\Debug\netcoreapp2.1\Table.AssemblyInfoInputs.cache
+D:\Module-2-C-\Table\Table\obj\Debug\netcoreapp2.1\Table.AssemblyInfo.cs
+D:\Module-2-C-\Table\Table\obj\Debug\netcoreapp2.1\Table.dll
+D:\Module-2-C-\Table\Table\obj\Debug\netcoreapp2.1\Table.pdb

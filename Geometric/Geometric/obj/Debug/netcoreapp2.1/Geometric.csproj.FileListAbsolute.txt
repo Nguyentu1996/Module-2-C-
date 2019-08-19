@@ -1,0 +1,11 @@
+D:\Module-2-C-\Geometric\Geometric\bin\Debug\netcoreapp2.1\Geometric.deps.json
+D:\Module-2-C-\Geometric\Geometric\bin\Debug\netcoreapp2.1\Geometric.runtimeconfig.json
+D:\Module-2-C-\Geometric\Geometric\bin\Debug\netcoreapp2.1\Geometric.runtimeconfig.dev.json
+D:\Module-2-C-\Geometric\Geometric\bin\Debug\netcoreapp2.1\Geometric.dll
+D:\Module-2-C-\Geometric\Geometric\bin\Debug\netcoreapp2.1\Geometric.pdb
+D:\Module-2-C-\Geometric\Geometric\obj\Debug\netcoreapp2.1\Geometric.csprojAssemblyReference.cache
+D:\Module-2-C-\Geometric\Geometric\obj\Debug\netcoreapp2.1\Geometric.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\Geometric\Geometric\obj\Debug\netcoreapp2.1\Geometric.AssemblyInfoInputs.cache
+D:\Module-2-C-\Geometric\Geometric\obj\Debug\netcoreapp2.1\Geometric.AssemblyInfo.cs
+D:\Module-2-C-\Geometric\Geometric\obj\Debug\netcoreapp2.1\Geometric.dll
+D:\Module-2-C-\Geometric\Geometric\obj\Debug\netcoreapp2.1\Geometric.pdb

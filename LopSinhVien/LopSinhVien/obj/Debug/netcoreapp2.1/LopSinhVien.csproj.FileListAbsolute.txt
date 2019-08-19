@@ -1,0 +1,11 @@
+D:\Module-2-C-\LopSinhVien\LopSinhVien\bin\Debug\netcoreapp2.1\LopSinhVien.deps.json
+D:\Module-2-C-\LopSinhVien\LopSinhVien\bin\Debug\netcoreapp2.1\LopSinhVien.runtimeconfig.json
+D:\Module-2-C-\LopSinhVien\LopSinhVien\bin\Debug\netcoreapp2.1\LopSinhVien.runtimeconfig.dev.json
+D:\Module-2-C-\LopSinhVien\LopSinhVien\bin\Debug\netcoreapp2.1\LopSinhVien.dll
+D:\Module-2-C-\LopSinhVien\LopSinhVien\bin\Debug\netcoreapp2.1\LopSinhVien.pdb
+D:\Module-2-C-\LopSinhVien\LopSinhVien\obj\Debug\netcoreapp2.1\LopSinhVien.csprojAssemblyReference.cache
+D:\Module-2-C-\LopSinhVien\LopSinhVien\obj\Debug\netcoreapp2.1\LopSinhVien.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\LopSinhVien\LopSinhVien\obj\Debug\netcoreapp2.1\LopSinhVien.AssemblyInfoInputs.cache
+D:\Module-2-C-\LopSinhVien\LopSinhVien\obj\Debug\netcoreapp2.1\LopSinhVien.AssemblyInfo.cs
+D:\Module-2-C-\LopSinhVien\LopSinhVien\obj\Debug\netcoreapp2.1\LopSinhVien.dll
+D:\Module-2-C-\LopSinhVien\LopSinhVien\obj\Debug\netcoreapp2.1\LopSinhVien.pdb
