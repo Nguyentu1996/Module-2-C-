@@ -1,0 +1,11 @@
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\bin\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.deps.json
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\bin\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.runtimeconfig.json
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\bin\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.runtimeconfig.dev.json
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\bin\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.dll
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\bin\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.pdb
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\obj\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.csprojAssemblyReference.cache
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\obj\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\obj\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.AssemblyInfoInputs.cache
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\obj\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.AssemblyInfo.cs
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\obj\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.dll
+D:\Module-2-C-\HeThongQuanLiSoDienThoai\HeThongQuanLiSoDienThoai\obj\Debug\netcoreapp2.1\HeThongQuanLiSoDienThoai.pdb
