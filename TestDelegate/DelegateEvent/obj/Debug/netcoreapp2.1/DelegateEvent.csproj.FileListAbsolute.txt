@@ -1,0 +1,11 @@
+D:\Module-2-C-\TestDelegate\DelegateEvent\bin\Debug\netcoreapp2.1\DelegateEvent.deps.json
+D:\Module-2-C-\TestDelegate\DelegateEvent\bin\Debug\netcoreapp2.1\DelegateEvent.runtimeconfig.json
+D:\Module-2-C-\TestDelegate\DelegateEvent\bin\Debug\netcoreapp2.1\DelegateEvent.runtimeconfig.dev.json
+D:\Module-2-C-\TestDelegate\DelegateEvent\bin\Debug\netcoreapp2.1\DelegateEvent.dll
+D:\Module-2-C-\TestDelegate\DelegateEvent\bin\Debug\netcoreapp2.1\DelegateEvent.pdb
+D:\Module-2-C-\TestDelegate\DelegateEvent\obj\Debug\netcoreapp2.1\DelegateEvent.csprojAssemblyReference.cache
+D:\Module-2-C-\TestDelegate\DelegateEvent\obj\Debug\netcoreapp2.1\DelegateEvent.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\TestDelegate\DelegateEvent\obj\Debug\netcoreapp2.1\DelegateEvent.AssemblyInfoInputs.cache
+D:\Module-2-C-\TestDelegate\DelegateEvent\obj\Debug\netcoreapp2.1\DelegateEvent.AssemblyInfo.cs
+D:\Module-2-C-\TestDelegate\DelegateEvent\obj\Debug\netcoreapp2.1\DelegateEvent.dll
+D:\Module-2-C-\TestDelegate\DelegateEvent\obj\Debug\netcoreapp2.1\DelegateEvent.pdb

@@ -43,7 +43,7 @@ namespace HeThongQuanLiSoDienThoai
         }
         public void remove()
         {
-            Console.WriteLine("nhap ten muon xoa");
+            Console.WriteLine("nhap ten muon xoa"); 
             var nameDel = Console.ReadLine();
             set.removePhone(nameDel);
         }

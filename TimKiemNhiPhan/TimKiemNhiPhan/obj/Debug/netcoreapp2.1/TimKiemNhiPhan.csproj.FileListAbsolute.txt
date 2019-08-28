@@ -1,0 +1,11 @@
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\netcoreapp2.1\TimKiemNhiPhan.deps.json
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\netcoreapp2.1\TimKiemNhiPhan.runtimeconfig.json
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\netcoreapp2.1\TimKiemNhiPhan.runtimeconfig.dev.json
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\netcoreapp2.1\TimKiemNhiPhan.dll
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\netcoreapp2.1\TimKiemNhiPhan.pdb
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\netcoreapp2.1\TimKiemNhiPhan.csprojAssemblyReference.cache
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\netcoreapp2.1\TimKiemNhiPhan.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\netcoreapp2.1\TimKiemNhiPhan.AssemblyInfoInputs.cache
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\netcoreapp2.1\TimKiemNhiPhan.AssemblyInfo.cs
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\netcoreapp2.1\TimKiemNhiPhan.dll
+D:\Module-2-C-\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\netcoreapp2.1\TimKiemNhiPhan.pdb

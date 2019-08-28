@@ -1,0 +1,11 @@
+D:\Module-2-C-\SortList\SortList\bin\Debug\netcoreapp2.1\SortList.deps.json
+D:\Module-2-C-\SortList\SortList\bin\Debug\netcoreapp2.1\SortList.runtimeconfig.json
+D:\Module-2-C-\SortList\SortList\bin\Debug\netcoreapp2.1\SortList.runtimeconfig.dev.json
+D:\Module-2-C-\SortList\SortList\bin\Debug\netcoreapp2.1\SortList.dll
+D:\Module-2-C-\SortList\SortList\bin\Debug\netcoreapp2.1\SortList.pdb
+D:\Module-2-C-\SortList\SortList\obj\Debug\netcoreapp2.1\SortList.csprojAssemblyReference.cache
+D:\Module-2-C-\SortList\SortList\obj\Debug\netcoreapp2.1\SortList.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\SortList\SortList\obj\Debug\netcoreapp2.1\SortList.AssemblyInfoInputs.cache
+D:\Module-2-C-\SortList\SortList\obj\Debug\netcoreapp2.1\SortList.AssemblyInfo.cs
+D:\Module-2-C-\SortList\SortList\obj\Debug\netcoreapp2.1\SortList.dll
+D:\Module-2-C-\SortList\SortList\obj\Debug\netcoreapp2.1\SortList.pdb

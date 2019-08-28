@@ -1,0 +1,11 @@
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\bin\Debug\netcoreapp2.1\QuanLiDiem.deps.json
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\bin\Debug\netcoreapp2.1\QuanLiDiem.runtimeconfig.json
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\bin\Debug\netcoreapp2.1\QuanLiDiem.runtimeconfig.dev.json
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\bin\Debug\netcoreapp2.1\QuanLiDiem.dll
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\bin\Debug\netcoreapp2.1\QuanLiDiem.pdb
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\obj\Debug\netcoreapp2.1\QuanLiDiem.csprojAssemblyReference.cache
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\obj\Debug\netcoreapp2.1\QuanLiDiem.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\obj\Debug\netcoreapp2.1\QuanLiDiem.AssemblyInfoInputs.cache
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\obj\Debug\netcoreapp2.1\QuanLiDiem.AssemblyInfo.cs
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\obj\Debug\netcoreapp2.1\QuanLiDiem.dll
+D:\Module-2-C-\QuanLiDiem\QuanLiDiem\obj\Debug\netcoreapp2.1\QuanLiDiem.pdb

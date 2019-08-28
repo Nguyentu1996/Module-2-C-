@@ -8,10 +8,7 @@ namespace HeThongQuanLiSoDienThoai.Models
 
     {
        public List<Phone> PhoneList = new List<Phone>();
-        public List<Phone> ShowList()
-        {
-            return PhoneList;
-        }
+        
         public void removePhone(string name)
         {
             if(PhoneList!= null)

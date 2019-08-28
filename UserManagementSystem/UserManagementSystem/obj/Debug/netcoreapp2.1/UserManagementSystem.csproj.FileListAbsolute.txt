@@ -1,0 +1,11 @@
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\bin\Debug\netcoreapp2.1\UserManagementSystem.deps.json
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\bin\Debug\netcoreapp2.1\UserManagementSystem.runtimeconfig.json
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\bin\Debug\netcoreapp2.1\UserManagementSystem.runtimeconfig.dev.json
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\bin\Debug\netcoreapp2.1\UserManagementSystem.dll
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\bin\Debug\netcoreapp2.1\UserManagementSystem.pdb
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\obj\Debug\netcoreapp2.1\UserManagementSystem.csprojAssemblyReference.cache
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\obj\Debug\netcoreapp2.1\UserManagementSystem.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\obj\Debug\netcoreapp2.1\UserManagementSystem.AssemblyInfoInputs.cache
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\obj\Debug\netcoreapp2.1\UserManagementSystem.AssemblyInfo.cs
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\obj\Debug\netcoreapp2.1\UserManagementSystem.dll
+D:\Module-2-C-\UserManagementSystem\UserManagementSystem\obj\Debug\netcoreapp2.1\UserManagementSystem.pdb
