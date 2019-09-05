@@ -1,0 +1,11 @@
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\bin\Debug\netcoreapp2.1\Library.deps.json
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\bin\Debug\netcoreapp2.1\Library.runtimeconfig.json
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\bin\Debug\netcoreapp2.1\Library.runtimeconfig.dev.json
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\bin\Debug\netcoreapp2.1\Library.dll
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\bin\Debug\netcoreapp2.1\Library.pdb
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\obj\Debug\netcoreapp2.1\Library.dll
+D:\Module-2-C-\BT-TryCacth\BT-TryCacth\obj\Debug\netcoreapp2.1\Library.pdb

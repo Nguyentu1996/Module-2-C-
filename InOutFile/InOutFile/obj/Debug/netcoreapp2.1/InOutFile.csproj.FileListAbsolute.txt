@@ -1,0 +1,11 @@
+D:\Module-2-C-\InOutFile\InOutFile\bin\Debug\netcoreapp2.1\InOutFile.deps.json
+D:\Module-2-C-\InOutFile\InOutFile\bin\Debug\netcoreapp2.1\InOutFile.runtimeconfig.json
+D:\Module-2-C-\InOutFile\InOutFile\bin\Debug\netcoreapp2.1\InOutFile.runtimeconfig.dev.json
+D:\Module-2-C-\InOutFile\InOutFile\bin\Debug\netcoreapp2.1\InOutFile.dll
+D:\Module-2-C-\InOutFile\InOutFile\bin\Debug\netcoreapp2.1\InOutFile.pdb
+D:\Module-2-C-\InOutFile\InOutFile\obj\Debug\netcoreapp2.1\InOutFile.csprojAssemblyReference.cache
+D:\Module-2-C-\InOutFile\InOutFile\obj\Debug\netcoreapp2.1\InOutFile.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\InOutFile\InOutFile\obj\Debug\netcoreapp2.1\InOutFile.AssemblyInfoInputs.cache
+D:\Module-2-C-\InOutFile\InOutFile\obj\Debug\netcoreapp2.1\InOutFile.AssemblyInfo.cs
+D:\Module-2-C-\InOutFile\InOutFile\obj\Debug\netcoreapp2.1\InOutFile.dll
+D:\Module-2-C-\InOutFile\InOutFile\obj\Debug\netcoreapp2.1\InOutFile.pdb

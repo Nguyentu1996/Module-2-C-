@@ -1,0 +1,11 @@
+D:\Cau2\Cau2\bin\Debug\netcoreapp2.1\Cau2.deps.json
+D:\Cau2\Cau2\bin\Debug\netcoreapp2.1\Cau2.runtimeconfig.json
+D:\Cau2\Cau2\bin\Debug\netcoreapp2.1\Cau2.runtimeconfig.dev.json
+D:\Cau2\Cau2\bin\Debug\netcoreapp2.1\Cau2.dll
+D:\Cau2\Cau2\bin\Debug\netcoreapp2.1\Cau2.pdb
+D:\Cau2\Cau2\obj\Debug\netcoreapp2.1\Cau2.csproj.CoreCompileInputs.cache
+D:\Cau2\Cau2\obj\Debug\netcoreapp2.1\Cau2.AssemblyInfoInputs.cache
+D:\Cau2\Cau2\obj\Debug\netcoreapp2.1\Cau2.AssemblyInfo.cs
+D:\Cau2\Cau2\obj\Debug\netcoreapp2.1\Cau2.dll
+D:\Cau2\Cau2\obj\Debug\netcoreapp2.1\Cau2.pdb
+D:\Cau2\Cau2\obj\Debug\netcoreapp2.1\Cau2.csprojAssemblyReference.cache

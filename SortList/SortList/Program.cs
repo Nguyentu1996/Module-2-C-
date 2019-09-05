@@ -4,6 +4,11 @@ namespace SortList
 {
     class Program
     {
+        public static void BinarySearch(int []array ,int x)
+        {
+           
+                
+        }
         public static void Swap( ref int a , ref int b)
         {
             var temp = a;
@@ -18,7 +23,8 @@ namespace SortList
                Console.Write( array[i]+",");
             }
         }
-
+        // sap xep nhanh
+        #region
         public static void QuickSort(int[] array,int left , int right)
         {
            
@@ -60,7 +66,8 @@ namespace SortList
            
 
         }
-        
+        #endregion
+
         // sắp xếp chèn 
         #region
         public static void InsertSort(int[] array)
@@ -121,7 +128,7 @@ namespace SortList
             int[] A = { 9, 6, 4, 2, 1, 3, 5, 8, 6, 2, 3, 5, 7 };
             //SelectedSort(A);
             // BubbleSort(A);
-            // InsertSort(A);
+            InsertSort(A);
             
             int left = 0;
             int right = A.Length - 1;

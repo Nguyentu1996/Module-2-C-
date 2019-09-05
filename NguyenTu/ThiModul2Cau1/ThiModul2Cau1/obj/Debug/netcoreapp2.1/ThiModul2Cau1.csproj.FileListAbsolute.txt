@@ -1,0 +1,11 @@
+D:\ThiModul2Cau1\ThiModul2Cau1\bin\Debug\netcoreapp2.1\ThiModul2Cau1.deps.json
+D:\ThiModul2Cau1\ThiModul2Cau1\bin\Debug\netcoreapp2.1\ThiModul2Cau1.runtimeconfig.json
+D:\ThiModul2Cau1\ThiModul2Cau1\bin\Debug\netcoreapp2.1\ThiModul2Cau1.runtimeconfig.dev.json
+D:\ThiModul2Cau1\ThiModul2Cau1\bin\Debug\netcoreapp2.1\ThiModul2Cau1.dll
+D:\ThiModul2Cau1\ThiModul2Cau1\bin\Debug\netcoreapp2.1\ThiModul2Cau1.pdb
+D:\ThiModul2Cau1\ThiModul2Cau1\obj\Debug\netcoreapp2.1\ThiModul2Cau1.csprojAssemblyReference.cache
+D:\ThiModul2Cau1\ThiModul2Cau1\obj\Debug\netcoreapp2.1\ThiModul2Cau1.csproj.CoreCompileInputs.cache
+D:\ThiModul2Cau1\ThiModul2Cau1\obj\Debug\netcoreapp2.1\ThiModul2Cau1.AssemblyInfoInputs.cache
+D:\ThiModul2Cau1\ThiModul2Cau1\obj\Debug\netcoreapp2.1\ThiModul2Cau1.AssemblyInfo.cs
+D:\ThiModul2Cau1\ThiModul2Cau1\obj\Debug\netcoreapp2.1\ThiModul2Cau1.dll
+D:\ThiModul2Cau1\ThiModul2Cau1\obj\Debug\netcoreapp2.1\ThiModul2Cau1.pdb

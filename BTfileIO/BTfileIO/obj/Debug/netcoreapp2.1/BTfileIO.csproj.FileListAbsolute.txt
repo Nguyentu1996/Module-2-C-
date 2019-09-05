@@ -1,0 +1,11 @@
+D:\Module-2-C-\BTfileIO\BTfileIO\obj\Debug\netcoreapp2.1\BTfileIO.csprojAssemblyReference.cache
+D:\Module-2-C-\BTfileIO\BTfileIO\obj\Debug\netcoreapp2.1\BTfileIO.csproj.CoreCompileInputs.cache
+D:\Module-2-C-\BTfileIO\BTfileIO\obj\Debug\netcoreapp2.1\BTfileIO.AssemblyInfoInputs.cache
+D:\Module-2-C-\BTfileIO\BTfileIO\obj\Debug\netcoreapp2.1\BTfileIO.AssemblyInfo.cs
+D:\Module-2-C-\BTfileIO\BTfileIO\bin\Debug\netcoreapp2.1\BTfileIO.deps.json
+D:\Module-2-C-\BTfileIO\BTfileIO\bin\Debug\netcoreapp2.1\BTfileIO.runtimeconfig.json
+D:\Module-2-C-\BTfileIO\BTfileIO\bin\Debug\netcoreapp2.1\BTfileIO.runtimeconfig.dev.json
+D:\Module-2-C-\BTfileIO\BTfileIO\bin\Debug\netcoreapp2.1\BTfileIO.dll
+D:\Module-2-C-\BTfileIO\BTfileIO\bin\Debug\netcoreapp2.1\BTfileIO.pdb
+D:\Module-2-C-\BTfileIO\BTfileIO\obj\Debug\netcoreapp2.1\BTfileIO.dll
+D:\Module-2-C-\BTfileIO\BTfileIO\obj\Debug\netcoreapp2.1\BTfileIO.pdb

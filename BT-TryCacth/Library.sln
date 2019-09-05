@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "BT-TryCacth\Library.csproj", "{3AC11410-2498-4EF2-B3BE-6F54502E54A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC11410-2498-4EF2-B3BE-6F54502E54A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC11410-2498-4EF2-B3BE-6F54502E54A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC11410-2498-4EF2-B3BE-6F54502E54A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC11410-2498-4EF2-B3BE-6F54502E54A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA85C2C-351A-4F4F-BF35-D0C58B8F992D}
+	EndGlobalSection
+EndGlobal
